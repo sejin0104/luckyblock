@@ -1,2 +1,2 @@
-# luckyblock
-럭키블럭 서버팩 업데이트용
+# 럭키블럭
+공식 블로그 : sejinjin.tistory.com
