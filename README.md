@@ -1,5 +1,5 @@
 # 럭키블럭
-+ 공식 블로그 : sejinjin.tistory.com
++ 공식 블로그 : https://sejinjin.tistory.com
 + 공식 디스코드 : https://discord.gg/uJ8Q62QRkD
 
 # 해당 서버팩에 관한 내용
