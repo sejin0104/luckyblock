@@ -19,3 +19,14 @@ https://dev.bukkit.org/projects/worldedit
 멀티 버즈
 
 https://www.spigotmc.org/resources/multiverse-core.390/
+
+# 개발자
+
++ 세찐찐
++ RyanNiniz1004
+
+# 테스터
+
++ silverstar1101
++ jjin1108
+
