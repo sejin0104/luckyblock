@@ -20,6 +20,10 @@ https://dev.bukkit.org/projects/worldedit
 
 https://www.spigotmc.org/resources/multiverse-core.390/
 
+# 기획 및 관리
+
++ 세찐찐
+
 # 개발자
 
 + 세찐찐
